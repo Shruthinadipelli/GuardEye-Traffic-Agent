@@ -15,6 +15,6 @@ GuardEye is an end-to-end, autonomous AI-agent traffic enforcement pipeline that
 - **Autonomous Citations & Dispatch:** Automatically updates SQL registries and issues active dispatch signals.
 
 ## ⚙️ How to Run Locally
-1. Clone this repository: `git clone <YOUR-GITHUB-LINK>`
+1. Clone this repository: `git clone https://github.com/Shruthinadipelli/GuardEye-Traffic-Agent`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the application: `streamlit run app.py`
